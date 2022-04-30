@@ -1,2 +1,1 @@
-# Dio-desafio-github-primeiro-repositorio
-primeiro desafio do curso dio sobre o GIT/GITHUB
+# Aqui Irei colocar minhas anotações das aulas e os desafios
